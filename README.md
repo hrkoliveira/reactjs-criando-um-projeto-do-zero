@@ -1,4 +1,5 @@
 # Blog - Space Traveling
+[![npm](https://github.com/hrkoliveira/reactjs-criando-um-projeto-do-zero/blob/master/LICENSE)]
 
 ## 📚 Informações sobre o projeto
 
