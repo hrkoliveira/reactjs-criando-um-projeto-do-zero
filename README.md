@@ -1,4 +1,5 @@
 # Blog - Space Traveling
+[![licenca2](https://user-images.githubusercontent.com/55418492/154279941-446b1464-62a1-4ac4-8f4c-b45666ea9c67.svg)](https://github.com/hrkoliveira/reactjs-criando-um-projeto-do-zero/blob/master/LICENSE)
 
 ## 📚 Informações sobre o projeto
 
