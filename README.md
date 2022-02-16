@@ -37,7 +37,11 @@ $ yarn
 # Inicie a aplicação
 $ yarn start
 ```
+&nbsp;
 
+## 📝 Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo de [LICENÇA](hhttps://github.com/hrkoliveira/reactjs-criando-um-projeto-do-zero/blob/master/LICENSE) para detalhes.
 ---
 
 <p align="center">Feito com 💙 por Herik Oliveira</p>
