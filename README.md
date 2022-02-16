@@ -23,7 +23,7 @@
 
 ```
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/hrkoliveira/reactjs-criando-um-repositorio-do-zero.git
+$ git clone https://github.com/hrkoliveira/reactjs-criando-um-projeto-do-zero.git
 ```
 
 ```
